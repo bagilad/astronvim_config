@@ -6,6 +6,7 @@ return {
 
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.java" },
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
